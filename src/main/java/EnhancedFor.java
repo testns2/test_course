@@ -3,7 +3,7 @@ public class EnhancedFor
 	public static void main(String[] args)
 	{	int[] list ={1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 		int sum = sumListEnhanced(list);
-		System.out.println("Sum of elements in list: " + sum);
+		System.out.println("Sum of elements in list: " + sum);//kl
 
 		System.out.println("Original List");
 		printList(list);
